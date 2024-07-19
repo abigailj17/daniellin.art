@@ -2,9 +2,9 @@
 
 body {
   margin-top: 20px;
-  margin-right: 60px;
+  margin-right: 80px;
   margin-bottom: 20px;
-  margin-left: 60px;
+  margin-left: 80px;
 }
 
 h1 {
@@ -20,6 +20,6 @@ p {
 }
 
 .spacer {
-  height: 80px;
+  height: 60px;
   display: block;
 }
