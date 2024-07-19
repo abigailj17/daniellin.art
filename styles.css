@@ -21,4 +21,5 @@ p {
 
 .spacer {
   height: 80px;
+  display: block;
 }
