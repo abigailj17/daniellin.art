@@ -2,9 +2,9 @@
 
 body {
   margin-top: 20px;
-  margin-right: 40px;
+  margin-right: 60px;
   margin-bottom: 20px;
-  margin-left: 40px;
+  margin-left: 60px;
 }
 
 h1 {
@@ -20,5 +20,5 @@ p {
 }
 
 .spacer {
-  height: 100px;
+  height: 80px;
 }
